@@ -7,7 +7,7 @@
     "invalid_id": "¡Lo siento! Esa es una ID inválida del servidor.\nVe tus servidores con {prefix}",
     "servers": {
         "no_servers": "No tienes ningún servidor.",
-        "your_servers": "Tus servidores de {hostname}"
+        "your_servers": "Tus servidores en {hostname}"
     },
     "info": {
         "start": "La acción de empezar ha sido enviada a tu servidor.",
